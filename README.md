@@ -13,4 +13,9 @@ Using the keywords that were generated above, we generate a description (human-l
 ### 1. Model download (Not updated Yet)
 ### 2. Model training
 ##### 1) Dataset download
+You should download the full dataset.
+Go to "https://mirg.city.ac.uk/codeapps/the-magnatagatune-dataset", and download three mp3 files
+(See This line: "Audio data: mp3 32bps file1(1GB) file2(1GB) file3(1GB)")
+##### 2) 
+
 
