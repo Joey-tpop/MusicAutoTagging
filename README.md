@@ -9,7 +9,7 @@ We used "MagnaTagATune Dataset" (https://mirg.city.ac.uk/codeapps/the-magnatagat
 ### 2. Description Generation using LangChain & GPT Model
 Using the keywords that were generated above, we generate a description (human-like) utilizing the langchain framework.
 
-## How to use(download) and train the mode
+## How to use(download) and train the model
 ### 1. Model download (Not updated Yet)
 ### 2. Model training
 ##### 1) Dataset download
